@@ -1,3 +1,3 @@
-# Meu Projeto
-Este é meu primeiro projeto usando Git!
-Adicionado uma nova para identificar eu como autor, pois este procedimento falhou no passo anterior.
+# Git e GitHub
+
+Deletei o ReadMe original e vou dar um push nesse para fins educacionais.
