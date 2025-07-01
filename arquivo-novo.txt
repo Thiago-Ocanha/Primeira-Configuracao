@@ -1,0 +1,4 @@
+Aula do Teo Calvo sobre Git e GitHub.
+Clone de um repositório.
+Criação de um arquivo txt.
+Push da alteração.
